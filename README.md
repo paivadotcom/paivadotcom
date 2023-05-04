@@ -11,8 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Atualmente trabalho com desenvolvimento desktop em c# e script em pyhon
-- 
+- 🔭 Atualmente trabalho com desenvolvimento desktop em c# e scripts em pyhon;
+- 🎓 Acadêmico em Análise e Dessenvolvimento de Sistemas;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paivadotcom&show_icons=true&bg_color=00000000)
 
 <div style="display: inline_block"><br>
