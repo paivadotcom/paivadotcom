@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1>Seu Nome</h1>
+  <p>Breve descrição sobre você e suas habilidades.</p>
+</div>
+
+<div align="center">
+  <img src="https://caminho/para/sua/imagem.png" alt="Sua imagem">
+  <p>Legenda para a imagem.</p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+    <img src="https://caminho/para/o/linkedin.png" alt="Logo do LinkedIn">
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://caminho/para/o/github.png" alt="Logo do GitHub">
+  </a>
+</div>
+
